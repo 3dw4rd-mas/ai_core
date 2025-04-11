@@ -1,0 +1,7 @@
+schema_version: 1
+name: my-scenario
+description: A test scenario
+executables:
+  - name: my-workflow
+    kind: workflow
+    template: my-first-workflow
